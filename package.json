@@ -1,20 +1,23 @@
 {
-  "name": "chaibackend",
+  "name": "backend",
   "version": "1.0.0",
-  "description": "a basic app deploy",
+  "description": "youtube chi aur code",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akansha76/Backend.git"
+  },
   "keywords": [
-    "node",
-    "chai"
+    "javascript",
+    "backend"
   ],
-  "author": "akanksha",
+  "author": "Akanksha",
   "license": "ISC",
-  "dependencies": {
-    "dotenv": "^16.4.7",
-    "express": "^4.21.2"
-  }
+  "bugs": {
+    "url": "https://github.com/Akansha76/Backend/issues"
+  },
+  "homepage": "https://github.com/Akansha76/Backend#readme"
 }
